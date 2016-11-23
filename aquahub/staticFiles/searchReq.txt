@@ -1,0 +1,25 @@
+
+SEARCH REQUEST
+========================
+
+{
+ "source":
+ {
+ "device":"ios",
+ "accessToken":"3c1ad99d2aba4f7898367f7a021ab642"
+ },
+ "productInfo":
+ {
+ "type" :"waterCan",
+ "locationCode" : "500036",
+ "latitude" : "xyz",
+ "longitue":"ytf"
+  "landmark": "Opp Bank"
+  "city":"Hyd"
+ }
+
+}
+ 
+
+URL:
+http://aquabee.co.in/search

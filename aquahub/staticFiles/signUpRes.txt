@@ -1,0 +1,45 @@
+
+
+
+
+SIGNUP RESPONSE
+========================
+
+SUCCESS :
+{
+ "source":{"device":"ios",
+ "accessToken":"3c1ad99d2aba4f7898367f7a021ab642"
+ },
+  "status" :"success",
+
+  "userDetail":{
+   "emailId":"ahmed@flyin.com",
+   "imageUrl":"url",
+   "userid":"500011",
+   "userType":"customer"
+   "loginType":"appSignUp"
+   "mobileNo":"8008500020"
+  }
+
+}
+
+ ERROR :
+
+ {
+ "source":{"device":"ios",
+ "accessToken":"3c1ad99d2aba4f7898367f7a021ab642"
+ },
+  "status" :"falied",
+
+  "error":{
+   "name":"Existing User",
+   "code":"EXIST_USER,
+   "description":"Already Email id is registered",
+  
+  }
+
+}
+
+
+URL:
+http://aquabee.co.in/login

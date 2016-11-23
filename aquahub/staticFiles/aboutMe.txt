@@ -1,0 +1,2 @@
+This folder is created to save the sample aquaHub requests and responses, 
+remove this folder after you generate dynamic files

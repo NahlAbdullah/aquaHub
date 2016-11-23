@@ -1,0 +1,26 @@
+
+
+
+SIGNUP REQUEST
+========================
+
+{
+ "source":
+ {
+ "device":"ios",
+ "accessToken":"3c1ad99d2aba4f7898367f7a021ab642"
+ },
+ "userDetail":
+ {
+ "firsName" :"ahmed",
+ "lastName" : "Ali",
+ "emailId" : "ahmed@gmail.com",
+ "password":"xxxxxx",
+ "mobileNo": "8008500010"
+ }
+
+}
+ 
+
+URL:
+http://aquabee.co.in/signUp

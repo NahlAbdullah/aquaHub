@@ -1,0 +1,42 @@
+
+
+LOGIN RESPONSE
+========================
+
+SUCCESS :
+{
+ "source":{"device":"ios",
+ "accessToken":"3c1ad99d2aba4f7898367f7a021ab642"
+ },
+  "status" :"success",
+
+  "userDetail":{
+   "username":"ahmed",
+   "imageUrl":"url",
+   "userid":"500001",
+   "userType":"customer"
+   "loginType":"socialmedia"
+  }
+
+}
+
+ ERROR :
+
+ {
+ "source":{"device":"ios",
+ "accessToken":"3c1ad99d2aba4f7898367f7a021ab642"
+ },
+  "status" :"falied",
+
+  "error":{
+   "name":"invalid Password",
+   "code":"INV_PSWD",
+   "description":"Entered password is incorrect",
+  
+  }
+
+}
+
+
+URL:
+http://aquabee.co.in/login
